@@ -1,0 +1,24 @@
+{
+  "name": "aula_semantica",
+  "version": "1.0.0",
+  "description": "\"# aula_semantica\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauan3999/aula_semantica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kauan3999/aula_semantica/issues"
+  },
+  "homepage": "https://github.com/Kauan3999/aula_semantica#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.8"
+  }
+}
